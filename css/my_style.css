@@ -1,0 +1,22 @@
+
+.botones{
+	color: #FFFFFF;
+	font-family: Arial;
+	height: 100px;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+
+h1{
+	color: #FFFFFF;
+	font-family: Arial;
+	height: 100px;
+	border-radius: 10px;
+	margin-top: 5px;
+	font-size: 22px;
+}
+
+ul li{
+	text-decoration: none;
+	display: inline-block;
+}
